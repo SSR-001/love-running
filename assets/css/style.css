@@ -20,7 +20,11 @@ body {
 }
 
 /*Header*/
-header {background-color:lightcoral;}
+header {background-color:#ffffff;
+        padding:0 1rem;
+        position:fixed;
+        z-index:99;
+}
 
 h1 {
     font-family:'Oswald', sans-serif;
